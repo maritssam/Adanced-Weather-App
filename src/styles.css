@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    
   
 }
 
@@ -43,6 +44,7 @@ small {
     padding: 20px; 
     border: 1px solid #dadde1; 
     border-radius: 8px;
+
 }
 
 #main-temp {
@@ -63,7 +65,7 @@ small {
 }
 a {
     text-decoration: none;
-    color: #AB8EE8;
+    color: #9aa0a6;
 }
 
 .weather-forecast {
@@ -81,6 +83,7 @@ a {
 
 .daily-temp {
     font-size: 13px;
+    color: #AB8EE8;
 } 
 
 .daily-temp-min {
