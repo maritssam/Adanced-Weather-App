@@ -63,6 +63,10 @@ small {
     top: -10px; 
     color: #9aa0a6;
 }
+#last-updated {
+    font-size: 12px;
+    font-style: italic;
+}
 a {
     text-decoration: none;
     color: #9aa0a6;
